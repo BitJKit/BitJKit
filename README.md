@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BitJKit
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on Kotlin
+- 📫 How to reach me jonathank@ravebizz.com
